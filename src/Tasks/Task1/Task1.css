@@ -1,0 +1,71 @@
+.body{
+    text-align: center;
+    margin: 10px;
+}
+
+.text{
+    margin: 100px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.me-auto{
+    /* margin: auto; */
+    gap: 10px;
+}
+
+.paramCmp{
+    display: grid;
+    /* width: 100px; */
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.Homecmp{
+    text-align: bottom;
+    margin-top: 100px;
+}
+
+.navlink{
+    text-decoration: none;
+    margin: 0px 15px;
+    color: rgb(179, 178, 178);
+}
+
+.Protected{
+    text-decoration: none;
+    width: 100%;
+    /* margin: 0px 15px; */
+    color: rgb(179, 178, 178);
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+}
+
+
+
+.active{
+    color: #fff;
+    background-color: gray;
+}
+
+.navlink:hover{
+    color: aliceblue;
+    /* font-size: 20px; */
+}
+
+.NestedBtnCmp{
+    margin: 60px;
+}
+
+.NestedBtn{
+    margin: 0px 5px;
+}
+
+.NestedCmp{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
